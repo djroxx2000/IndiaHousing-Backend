@@ -67,7 +67,7 @@ try {
 //    console.log("scheduled hello");
 // });
 
-const secret = "6LdclKcZAAAAAH9_Fo3yDrW1sIlT1kzfQ_ykFHSA";
+const secret = "";
 
 //Test requests
 router.get('/', (_req, res) => {
